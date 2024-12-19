@@ -12,6 +12,6 @@
 
 <img src='https://img.shields.io/badge/%40-chungjongin%40gmail.com-grey?style=for-the-badge&labelColor=white'>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dddingzong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dddingzong&show_icons=true&theme=shadow_blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddingzong&layout=compact)
 
